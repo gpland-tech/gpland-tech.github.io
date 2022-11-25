@@ -1,10 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.15687b5f.css",
-    "main.js": "/static/js/main.b07c6a25.js",
+    "main.css": "/static/css/main.e76b4ce7.css",
+    "main.js": "/static/js/main.13ae5d7d.js",
     "static/media/tcpland1.webp": "/static/media/tcpland1.4a37e81341be8564228b.webp",
     "static/media/tcpland3.webp": "/static/media/tcpland3.c45e645e9a3dcd419fcb.webp",
     "static/media/tcpland2.webp": "/static/media/tcpland2.4ac93434a617b26a321b.webp",
+    "static/media/logo-hhtgdls.png": "/static/media/logo-hhtgdls.0526d18df2b569b52ab7.png",
+    "static/media/logo-hctd-qtb.png": "/static/media/logo-hctd-qtb.b0151cdcc06a2bb57214.png",
+    "static/media/logo-dhvh.png": "/static/media/logo-dhvh.821883b7006f2299ea58.png",
+    "static/media/logo-ncb.png": "/static/media/logo-ncb.b2c1826f618b32f2ea01.png",
+    "static/media/logo-tcb.png": "/static/media/logo-tcb.3ec6a279ccc7778cb5b9.png",
+    "static/media/logo-dhtcmkt.png": "/static/media/logo-dhtcmkt.33f386aa9814b2c6be03.png",
+    "static/media/logo-mbb.png": "/static/media/logo-mbb.b7920bc1313ab34df0b4.png",
     "static/media/logo.png": "/static/media/logo.e582530a00c5900af9d3.png",
     "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -12,11 +19,11 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.15687b5f.css.map": "/static/css/main.15687b5f.css.map",
-    "main.b07c6a25.js.map": "/static/js/main.b07c6a25.js.map"
+    "main.e76b4ce7.css.map": "/static/css/main.e76b4ce7.css.map",
+    "main.13ae5d7d.js.map": "/static/js/main.13ae5d7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.15687b5f.css",
-    "static/js/main.b07c6a25.js"
+    "static/css/main.e76b4ce7.css",
+    "static/js/main.13ae5d7d.js"
   ]
 }
